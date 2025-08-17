@@ -257,6 +257,9 @@ ol {
   line-height: 21px;
   border: 1px solid currentColor;
   height: 34px;
+}
+
+.search-form__submit-button{
   margin-top: 20px;
 }
 
